@@ -1,0 +1,14 @@
+html{
+  font-size : 62.5%;
+}
+
+body {
+  margin:0;
+  font: 300 11px/1.4 'Helvetica Neue' , sans-serif;
+  color: #ffeeb4;
+  background: #1a1a1d;
+  display:block;
+  -webkit-font-smooting: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
